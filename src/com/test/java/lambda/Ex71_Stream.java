@@ -15,6 +15,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 import com.test.data.Data;
+
 import com.test.data.Item;
 
 public class Ex71_Stream {
